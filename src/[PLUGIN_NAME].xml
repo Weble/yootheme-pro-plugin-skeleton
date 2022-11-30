@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" group="system" method="upgrade" version="3.0">
+    <name>YOOtheme Pro - [PLUGIN_TITLE]</name>
+    <version>1.0.0</version>
+    <creationDate>December 2022</creationDate>
+    <copyright>(C) 2022 Weble Srl</copyright>
+    <license>GNU GPLv2 or later</license>
+    <author>Weble Srl</author>
+    <authorEmail>daniele@weble.it</authorEmail>
+    <authorUrl>https://weble.it</authorUrl>
+    <description>[PLUGIN_DESCRIPTION]</description>
+    <element>[PLUGIN_NAME]</element>
+    <files>
+        <filename plugin="[PLUGIN_NAME]">[PLUGIN_NAME].php</filename>
+        <folder>assets</folder>
+        <folder>builder</folder>
+        <folder>config</folder>
+        <folder>src</folder>
+        <folder>vendor</folder>
+    </files>
+    <config>
+        <fields name="params">
+            <fieldset name="basic">
+            </fieldset>
+        </fields>
+    </config>
+</extension>

@@ -1,0 +1,17 @@
+{
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "[PLUGIN_NAMESPACE]\\": [
+                "src"
+            ]
+        }
+    },
+    "config": {
+        "platform": {
+            "php": "7.4.22"
+        }
+    }
+}

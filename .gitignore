@@ -1,0 +1,8 @@
+.idea
+.DS_Store
+src/vendor
+src/node_modules
+build/*
+src/composer.lock
+src/assets/*.min.js
+src/assets/*.min.css

@@ -1,4 +1,6 @@
-# SKELETON FOR BUILDING CUSTOM YOOTHEME PRO PLUGINS FOR JOOMLA 3 / 4
+# YOOtheme PRO Plugin Skeleton
+
+Skeleton for building custom yootheme pro plugins for joomla 3 / 4
 
 ## Steps for using
 1. Create a new GIT repo using this template

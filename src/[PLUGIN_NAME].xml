@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <extension type="plugin" group="system" method="upgrade" version="3.0">
-    <name>YOOtheme Pro - [PLUGIN_TITLE]</name>
+    <name>[PLUGIN_TITLE]</name>
     <version>1.0.0</version>
     <creationDate>December 2022</creationDate>
     <copyright>(C) 2022 Weble Srl</copyright>
